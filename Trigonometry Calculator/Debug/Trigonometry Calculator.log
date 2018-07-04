@@ -1,0 +1,61 @@
+﻿Build started 20-Nov-15 3:24:00 PM.
+     1>Project "E:\Assignments\Computer Graphics for Games\Assignment 1\Trigonometry Calculator\Trigonometry Calculator\Trigonometry Calculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TrigCalc.cpp
+         TrigCalc.cpp
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(154): warning C4551: function call missing argument list
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(316): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(216): warning C4101: 'Valid' : unreferenced local variable
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(387): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(409): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(433): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(456): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(479): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(502): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(514): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(554): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(562): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(539): warning C4101: 'MenuAnswer' : unreferenced local variable
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(640): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(642): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(644): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(670): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(672): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(674): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(700): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(702): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(704): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(730): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(732): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(734): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(760): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(762): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(764): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(790): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(792): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(794): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(820): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(822): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(824): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(850): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(852): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(854): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(880): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(882): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(884): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(893): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(587): warning C4101: 'Height' : unreferenced local variable
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(937): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(945): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(947): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(949): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(1080): warning C4551: function call missing argument list
+     1>e:\assignments\computer graphics for games\assignment 1\trigonometry calculator\trigonometry calculator\trigcalc.cpp(1084): warning C4551: function call missing argument list
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Assignments\Computer Graphics for Games\Assignment 1\Trigonometry Calculator\Debug\Trigonometry Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Assignments\Computer Graphics for Games\Assignment 1\Trigonometry Calculator\Debug\Trigonometry Calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Assignments\Computer Graphics for Games\Assignment 1\Trigonometry Calculator\Debug\Trigonometry Calculator.lib" /MACHINE:X86 Debug\TrigCalc.obj
+         Trigonometry Calculator.vcxproj -> E:\Assignments\Computer Graphics for Games\Assignment 1\Trigonometry Calculator\Debug\Trigonometry Calculator.exe
+     1>Done Building Project "E:\Assignments\Computer Graphics for Games\Assignment 1\Trigonometry Calculator\Trigonometry Calculator\Trigonometry Calculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
